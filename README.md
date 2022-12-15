@@ -7,4 +7,4 @@
 * <https://www.qiuwenbaike.cn/wiki/MediaWiki:Gadget-Wikiplus-highlight.js>
 * <https://www.qiuwenbaike.cn/wiki/MediaWiki:Gadget-Wikiplus.js>
 
-遵循[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)或[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)协议。
+遵循[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)或[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)协议，原作者已在以上链接中列出。
